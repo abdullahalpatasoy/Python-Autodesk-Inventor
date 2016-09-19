@@ -2,7 +2,7 @@
 
 Bu program Autodesk Inventor'da çizilmiş .ipt uzantılı dosyadan parçanın fiziksel özellik verilerinin Inventor programı görünürde açılmadan fakat arka planda açılarak alınmasını sağlar.
 
-Bu program python 2.7 versiyonunda çalışır ve win32com kütüphanesini kullanır.
+Bu program Python 2.7 versiyonunda çalışır ve win32com kütüphanesini kullanır.
 
 
 # Using Python in Autodesk-Inventor
