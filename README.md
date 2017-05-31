@@ -1,4 +1,4 @@
-#Autodesk Inventor'da Python Kullanımı
+# Autodesk Inventor'da Python Kullanımı
 
 Bu program Autodesk Inventor'da çizilmiş .ipt uzantılı dosyadan parçanın fiziksel özellik verilerinin Inventor programı görünürde açılmadan fakat arka planda açılarak alınmasını sağlar.
 
